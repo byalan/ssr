@@ -22,6 +22,10 @@ https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr
          
 安装完git后再重复刚才的SSR安装
 
+# 新问题
+
+安装的时候竟然是装在/home/登陆的用户名/.local/share/下，使用sudo安装也一样，运行的时候，就得加上sudo ssr start这样的命令
+
 # 装完后配置，输入：
          ssr config
 (输入冒号:wq可以退出配置)： 也可用nano来配置
@@ -42,4 +46,4 @@ https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr
     "obfs": "xxxxxx",//混淆方式
     "obfs_param": "xxxxxxxx",//混淆参数
     
-# 所以建议还是sudo后用none修改
+# 所以建议还是sudo后用none修改 
