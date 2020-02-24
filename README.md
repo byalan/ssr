@@ -21,6 +21,7 @@ https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr
          sudo apt install git
          
 安装完git后再重复刚才的SSR安装
+
 # 装完后配置，输入：
          ssr config
 (输入冒号:wq可以退出配置)： 也可用nano来配置
