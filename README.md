@@ -1,7 +1,7 @@
 # ssr
 Linux上的SSR一键安装脚本
 
-脚本原地址：https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr获取本脚本的最新版
+脚本原地址：https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr
 
 ubuntu服务器版本命令行如何安装SSR:
 一行行输入，回车（#号后是说明，不用输入，只输入前面的命令，输入完后回车，下同）：
