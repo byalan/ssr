@@ -1,5 +1,5 @@
 # ssr
-Linux上的SSR一键安装脚本
+# Linux上的SSR一键安装脚本
 
 脚本原地址：
 https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr
